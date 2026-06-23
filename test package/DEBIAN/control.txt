@@ -1,0 +1,8 @@
+Package: com.yourname.testpackage
+Name: Test Package
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: test package
+Maintainer: Braxton <noemail@gmail.com>
+Author: Braxton
+Section: Tweaks
