@@ -1,0 +1,8 @@
+Package: com.braxton.ebay1.7.2
+Name: Ebay 1.7.2
+Version: 1.7.2
+Architecture: iphoneos-arm
+Description: eBay 1.7.2 application for legacy devices.
+Maintainer: Your Name
+Author: eBay Inc.
+Section: Applications

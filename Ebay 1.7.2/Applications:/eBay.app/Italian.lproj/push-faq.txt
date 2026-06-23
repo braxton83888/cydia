@@ -1,0 +1,10 @@
+Per ricevere le notifiche di eBay Sempre:
+- L'oggetto deve essere aggiunto all'elenco di oggetti che osservi anche se hai fatto offerte.
+- L'impostazione Mantieni la connessione deve essere attivata nelle Preferenze di eBay Sempre.
+- Le notifiche devono essere attivate nelle impostazioni del sistema.
+- La rete wifi deve supportare le notifiche.
+
+Le notifiche non funzioneranno se:
+- Usi un dispositivo Jail Broken.
+- Usi un iPod Touch in Sleep Mode
+
