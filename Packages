@@ -1,0 +1,21 @@
+Package: com.example.test
+Name: Test package
+Version: 1.0
+Architecture: iphoneos-arm
+Description: test repo
+Filename: debs/test.deb
+Size: 0
+
+Package: us.hackulo.appsync31
+Name: AppSync iOS 3.1.x
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: JarXy <jamartin123@hotmail.co.uk>
+Author: Cipher <jamartin123@hotmail.co.uk>
+Filename: debs/appsync31-1.0.1.deb
+Size: 296542
+MD5sum: 534080636c26e40d3efbdf195f3fbdfb
+SHA1: 2e3be3668f26c9d4ac7b796042aa7b05184fe4ae
+SHA256: c0975018be2f1fe73eaeadce9a3c4ead17ab01b08eb41bd11a82b2f83c60fb70
+Section: Tweaks
+Description: AppSync for iOS 3.1 to 3.1.2!
