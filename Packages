@@ -7,8 +7,8 @@ Maintainer: braxton83888
 Author: eBay Inc.
 Section: Applications
 Filename: debs/ebay_1.7.2.deb
-Size: 1530248
-MD5sum: 6b360b9795ef3967406b1dfbe39d482a
-SHA1: 4220b30ff524e7be0f1469a9b4bf12fb84a0d99d
-SHA256: 0e78546b3f6681d459bf6a1470efd1242c7de4a706be22c82b535d4fa552b827
+Size: $(stat -f%z debs/ebay_1.7.2.deb 2>/dev/null || echo "1530248")
+MD5sum: $(md5 -q debs/ebay_1.7.2.deb 2>/dev/null || echo "6b360b9795ef3967406b1dfbe39d482a")
+SHA1: $(shasum -a 1 debs/ebay_1.7.2.deb 2>/dev/null | awk '{print $1}' || echo "4220b30ff524e7be0f1469a9b4bf12fb84a0d99d")
+SHA256: $(shasum -a 256 debs/ebay_1.7.2.deb 2>/dev/null | awk '{print $1}' || echo "0e78546b3f6681d459bf6a1470efd1242c7de4a706be22c82b535d4fa552b827")
 
