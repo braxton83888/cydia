@@ -1,29 +1,14 @@
-
-Package: com.braxton.ebay1.7.2
-
-Name: Ebay 1.7.2
-
+Package: com.braxton.ebay
+Name: Ebay
 Version: 1.7.2
-
 Architecture: iphoneos-arm
-
 Description: eBay 1.7.2 application for legacy devices.
-
-Maintainer: braxton
-
+Maintainer: braxton83888
 Author: eBay Inc.
-
 Section: Applications
-
 Filename: debs/ebay_1.7.2.deb
-
 Size: 5242880
-
 MD5sum: d41d8cd98f00b204e9800998ecf8427e
-
 SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
-
 SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-
-
 

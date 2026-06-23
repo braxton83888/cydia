@@ -1,0 +1,8 @@
+Origin: Braxton83888s Repo 
+Label: test
+Suite: stable
+Version: 1.0
+Codename: test
+Architectures: iphoneos-arm
+Components: main
+Description: braxtons cydia repo iOS 3-10 
